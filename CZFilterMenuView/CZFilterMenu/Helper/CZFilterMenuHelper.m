@@ -62,13 +62,13 @@
     // 4. 赋值
     button.titleEdgeInsets = labelEdgeInsets;
     button.imageEdgeInsets = imageEdgeInsets;
-    
 }
 
 
 + (NSBundle *)libBundle {
-    NSString *bundlePath = [[NSBundle bundleForClass:self.class].resourcePath stringByAppendingPathComponent:@"CZFilterMenuResource.bunbdle"];
+    NSString *bundlePath = [[NSBundle bundleForClass:self.class].resourcePath stringByAppendingPathComponent:@"CZFilterMenuResource.bundle"];
     NSBundle *bundle = [NSBundle bundleWithPath:bundlePath];
+    // 这句代码可能会引起闪退,暂时没想到好的解决
     if (bundle == nil) {
         bundle = [NSBundle bundleForClass:self.class];
     }

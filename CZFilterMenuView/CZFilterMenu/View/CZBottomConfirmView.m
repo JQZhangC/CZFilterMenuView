@@ -8,11 +8,14 @@
 
 #import "CZBottomConfirmView.h"
 
+
 @implementation CZBottomConfirmView
 
 - (void)awakeFromNib {
     [super awakeFromNib];
     self.confirmButton.layer.cornerRadius = 3;
     self.confirmButton.layer.masksToBounds = YES;
+    
+
 }
 @end

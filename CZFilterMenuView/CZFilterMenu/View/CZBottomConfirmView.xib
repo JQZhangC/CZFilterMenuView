@@ -61,6 +61,7 @@
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <connections>
                 <outlet property="confirmButton" destination="RSz-0z-0I6" id="4eI-Gl-fgN"/>
+                <outlet property="resetImageView" destination="8T6-iX-hT3" id="qGx-A4-J0M"/>
                 <outlet property="resetLabel" destination="Ot0-uP-Aud" id="f6H-i7-u6a"/>
                 <outlet property="resetView" destination="Vjk-3L-Q4s" id="Pwd-cS-Fns"/>
             </connections>

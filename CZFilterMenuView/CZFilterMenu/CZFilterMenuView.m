@@ -1217,6 +1217,7 @@ static NSString *const kCollectionViewFooterId = @"CZFilterMenuCollectionFooterI
     if (!_confirmView) {
         NSBundle *bundle = [CZFilterMenuHelper libBundle];
         _confirmView = [[bundle loadNibNamed:NSStringFromClass([CZBottomConfirmView class]) owner:nil options:nil] firstObject];
+        _confirmView.resetImageView.image = [UIImage imageNamed:@"filter_clear" inBundle:bundle compatibleWithTraitCollection:nil];
         _confirmView.confirmButton.backgroundColor = self.appearance.tintColor;
         _confirmView.resetLabel.textColor = self.appearance.textColor;
         [_confirmView.confirmButton addTarget:self action:@selector(confirmClick) forControlEvents:UIControlEventTouchUpInside];

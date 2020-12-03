@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (weak, nonatomic) IBOutlet UIView *resetView;
 @property (weak, nonatomic) IBOutlet UILabel *resetLabel;
 @property (weak, nonatomic) IBOutlet UIButton *confirmButton;
+@property (weak, nonatomic) IBOutlet UIImageView *resetImageView;
+
 @end
 
 NS_ASSUME_NONNULL_END
