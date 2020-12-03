@@ -16,7 +16,6 @@
 		2127B0EA2547FF5B00CE3641 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2127B0E92547FF5B00CE3641 /* main.m */; };
 		2127B0F32547FF8000CE3641 /* CZFilterMenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2127B0F22547FF8000CE3641 /* CZFilterMenuView.m */; };
 		2127B0F6254800C800CE3641 /* CZFilterMenuAppearance.m in Sources */ = {isa = PBXBuildFile; fileRef = 2127B0F5254800C800CE3641 /* CZFilterMenuAppearance.m */; };
-		2127B0F92548030200CE3641 /* CZFilterMenuHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 2127B0F82548030200CE3641 /* CZFilterMenuHelper.m */; };
 		2127B0FC2548125300CE3641 /* CZFilterIndexPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 2127B0FB2548125300CE3641 /* CZFilterIndexPath.m */; };
 		2127B1002548190700CE3641 /* CZFilterMenuTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2127B0FD2548190700CE3641 /* CZFilterMenuTableViewCell.xib */; };
 		2127B1012548190700CE3641 /* CZFilterMenuTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2127B0FE2548190700CE3641 /* CZFilterMenuTableViewCell.m */; };
@@ -35,6 +34,7 @@
 		2127B12825495D4F00CE3641 /* CZFilterMenuCollectionHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2127B12625495D4F00CE3641 /* CZFilterMenuCollectionHeaderView.xib */; };
 		2130DD7E254FA33A002CBC5E /* CZFilterMenuCollectionFooterInputView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2130DD7C254FA33A002CBC5E /* CZFilterMenuCollectionFooterInputView.m */; };
 		2130DD7F254FA33A002CBC5E /* CZFilterMenuCollectionFooterInputView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2130DD7D254FA33A002CBC5E /* CZFilterMenuCollectionFooterInputView.xib */; };
+		2161ADFF2578F7D4008A576A /* CZFilterMenuHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 2161ADFD2578F7D4008A576A /* CZFilterMenuHelper.m */; };
 		21B95BEA25787698003A1FB4 /* CZFilterImages.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21B95BE925787698003A1FB4 /* CZFilterImages.xcassets */; };
 		BAB1D0F9515C07FABE7D9534 /* Pods_CZFilterMenuView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EECD5E8D8B2DB35129D72323 /* Pods_CZFilterMenuView.framework */; };
 /* End PBXBuildFile section */
@@ -57,8 +57,6 @@
 		2127B0F22547FF8000CE3641 /* CZFilterMenuView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CZFilterMenuView.m; sourceTree = "<group>"; };
 		2127B0F4254800C800CE3641 /* CZFilterMenuAppearance.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CZFilterMenuAppearance.h; sourceTree = "<group>"; };
 		2127B0F5254800C800CE3641 /* CZFilterMenuAppearance.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CZFilterMenuAppearance.m; sourceTree = "<group>"; };
-		2127B0F72548030200CE3641 /* CZFilterMenuHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CZFilterMenuHelper.h; sourceTree = "<group>"; };
-		2127B0F82548030200CE3641 /* CZFilterMenuHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CZFilterMenuHelper.m; sourceTree = "<group>"; };
 		2127B0FA2548125300CE3641 /* CZFilterIndexPath.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CZFilterIndexPath.h; sourceTree = "<group>"; };
 		2127B0FB2548125300CE3641 /* CZFilterIndexPath.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CZFilterIndexPath.m; sourceTree = "<group>"; };
 		2127B0FD2548190700CE3641 /* CZFilterMenuTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CZFilterMenuTableViewCell.xib; sourceTree = "<group>"; };
@@ -88,6 +86,8 @@
 		2130DD7B254FA33A002CBC5E /* CZFilterMenuCollectionFooterInputView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CZFilterMenuCollectionFooterInputView.h; sourceTree = "<group>"; };
 		2130DD7C254FA33A002CBC5E /* CZFilterMenuCollectionFooterInputView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CZFilterMenuCollectionFooterInputView.m; sourceTree = "<group>"; };
 		2130DD7D254FA33A002CBC5E /* CZFilterMenuCollectionFooterInputView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CZFilterMenuCollectionFooterInputView.xib; sourceTree = "<group>"; };
+		2161ADFD2578F7D4008A576A /* CZFilterMenuHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZFilterMenuHelper.m; sourceTree = "<group>"; };
+		2161ADFE2578F7D4008A576A /* CZFilterMenuHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZFilterMenuHelper.h; sourceTree = "<group>"; };
 		21B95BE925787698003A1FB4 /* CZFilterImages.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = CZFilterImages.xcassets; sourceTree = "<group>"; };
 		D321231E2399E4FD35868E0A /* Pods-CZFilterMenuView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CZFilterMenuView.debug.xcconfig"; path = "Target Support Files/Pods-CZFilterMenuView/Pods-CZFilterMenuView.debug.xcconfig"; sourceTree = "<group>"; };
 		EECD5E8D8B2DB35129D72323 /* Pods_CZFilterMenuView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CZFilterMenuView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -195,8 +195,8 @@
 		2127B11925493EDE00CE3641 /* Helper */ = {
 			isa = PBXGroup;
 			children = (
-				2127B0F72548030200CE3641 /* CZFilterMenuHelper.h */,
-				2127B0F82548030200CE3641 /* CZFilterMenuHelper.m */,
+				2161ADFE2578F7D4008A576A /* CZFilterMenuHelper.h */,
+				2161ADFD2578F7D4008A576A /* CZFilterMenuHelper.m */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -351,9 +351,9 @@
 				2127B0F32547FF8000CE3641 /* CZFilterMenuView.m in Sources */,
 				2127B10D2548260500CE3641 /* CZSubwayModel.m in Sources */,
 				2127B1102548264900CE3641 /* CZStationModel.m in Sources */,
-				2127B0F92548030200CE3641 /* CZFilterMenuHelper.m in Sources */,
 				2127B0EA2547FF5B00CE3641 /* main.m in Sources */,
 				2127B0FC2548125300CE3641 /* CZFilterIndexPath.m in Sources */,
+				2161ADFF2578F7D4008A576A /* CZFilterMenuHelper.m in Sources */,
 				2130DD7E254FA33A002CBC5E /* CZFilterMenuCollectionFooterInputView.m in Sources */,
 				2127B11625493DB700CE3641 /* CZFilterButton.m in Sources */,
 				2127B11C2549439600CE3641 /* CZBottomConfirmView.m in Sources */,

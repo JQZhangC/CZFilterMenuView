@@ -7,13 +7,8 @@
 //
 
 #import "CZBottomConfirmView.h"
-#import "CZFilterMenuHelper.h"
 
 @implementation CZBottomConfirmView
-+ (instancetype)confirmView {
-    NSBundle *bundle = [CZFilterMenuHelper libBundle];
-    return [[bundle loadNibNamed:NSStringFromClass([self class]) owner:nil options:nil] firstObject];
-}
 
 - (void)awakeFromNib {
     [super awakeFromNib];
