@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.name         = "CZFilterMenu"
 
 # 对应Github中的tag
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
 
 # 是否开启ARC
 spec.requires_arc = true
