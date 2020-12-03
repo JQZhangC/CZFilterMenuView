@@ -1,0 +1,1714 @@
+[
+  {
+    "lineId": 1,
+    "lineName": "1号线",
+    "stationList": [
+      {
+        "stationId": 1,
+        "stationName": "莘庄"
+      },
+      {
+        "stationId": 2,
+        "stationName": "外环路"
+      },
+      {
+        "stationId": 3,
+        "stationName": "莲花路"
+      },
+      {
+        "stationId": 4,
+        "stationName": "锦江乐园"
+      },
+      {
+        "stationId": 5,
+        "stationName": "上海南站"
+      },
+      {
+        "stationId": 6,
+        "stationName": "漕宝路"
+      },
+      {
+        "stationId": 7,
+        "stationName": "上海体育馆"
+      },
+      {
+        "stationId": 8,
+        "stationName": "徐家汇"
+      },
+      {
+        "stationId": 9,
+        "stationName": "衡山路"
+      },
+      {
+        "stationId": 10,
+        "stationName": "常熟路"
+      },
+      {
+        "stationId": 11,
+        "stationName": "陕西南路"
+      },
+      {
+        "stationId": 12,
+        "stationName": "黄陂南路"
+      },
+      {
+        "stationId": 13,
+        "stationName": "人民广场"
+      },
+      {
+        "stationId": 14,
+        "stationName": "新闸路"
+      },
+      {
+        "stationId": 15,
+        "stationName": "汉中路"
+      },
+      {
+        "stationId": 16,
+        "stationName": "上海火车站"
+      },
+      {
+        "stationId": 17,
+        "stationName": "中山北路"
+      },
+      {
+        "stationId": 18,
+        "stationName": "延长路"
+      },
+      {
+        "stationId": 19,
+        "stationName": "上海马戏城"
+      },
+      {
+        "stationId": 20,
+        "stationName": "汶水路"
+      },
+      {
+        "stationId": 21,
+        "stationName": "彭浦新村"
+      },
+      {
+        "stationId": 22,
+        "stationName": "共康路"
+      },
+      {
+        "stationId": 23,
+        "stationName": "通河新村"
+      },
+      {
+        "stationId": 24,
+        "stationName": "呼兰路"
+      },
+      {
+        "stationId": 25,
+        "stationName": "共富新村"
+      },
+      {
+        "stationId": 26,
+        "stationName": "宝安公路"
+      },
+      {
+        "stationId": 27,
+        "stationName": "友谊西路"
+      },
+      {
+        "stationId": 28,
+        "stationName": "富锦路"
+      }
+    ]
+  },
+  {
+    "lineId": 2,
+    "lineName": "2号线",
+    "stationList": [
+      {
+        "stationId": 29,
+        "stationName": "徐泾东"
+      },
+      {
+        "stationId": 30,
+        "stationName": "虹桥火车站"
+      },
+      {
+        "stationId": 31,
+        "stationName": "虹桥2号航站楼"
+      },
+      {
+        "stationId": 32,
+        "stationName": "淞虹路"
+      },
+      {
+        "stationId": 33,
+        "stationName": "北新泾"
+      },
+      {
+        "stationId": 34,
+        "stationName": "威宁路"
+      },
+      {
+        "stationId": 35,
+        "stationName": "娄山关路"
+      },
+      {
+        "stationId": 36,
+        "stationName": "中山公园"
+      },
+      {
+        "stationId": 37,
+        "stationName": "江苏路"
+      },
+      {
+        "stationId": 38,
+        "stationName": "静安寺"
+      },
+      {
+        "stationId": 39,
+        "stationName": "南京西路"
+      },
+      {
+        "stationId": 40,
+        "stationName": "人民广场"
+      },
+      {
+        "stationId": 41,
+        "stationName": "南京东路"
+      },
+      {
+        "stationId": 42,
+        "stationName": "陆家嘴"
+      },
+      {
+        "stationId": 43,
+        "stationName": "东昌路"
+      },
+      {
+        "stationId": 44,
+        "stationName": "世纪大道"
+      },
+      {
+        "stationId": 45,
+        "stationName": "上海科技馆"
+      },
+      {
+        "stationId": 46,
+        "stationName": "世纪公园"
+      },
+      {
+        "stationId": 47,
+        "stationName": "龙阳路"
+      },
+      {
+        "stationId": 48,
+        "stationName": "张江高科"
+      },
+      {
+        "stationId": 49,
+        "stationName": "金科路"
+      },
+      {
+        "stationId": 50,
+        "stationName": "广兰路"
+      },
+      {
+        "stationId": 51,
+        "stationName": "唐镇"
+      },
+      {
+        "stationId": 52,
+        "stationName": "创新中路"
+      },
+      {
+        "stationId": 53,
+        "stationName": "华夏东路"
+      },
+      {
+        "stationId": 54,
+        "stationName": "川沙"
+      },
+      {
+        "stationId": 55,
+        "stationName": "凌空路"
+      },
+      {
+        "stationId": 56,
+        "stationName": "远东大道"
+      },
+      {
+        "stationId": 57,
+        "stationName": "海天三路"
+      },
+      {
+        "stationId": 58,
+        "stationName": "浦东国际机场"
+      }
+    ]
+  },
+  {
+    "lineId": 3,
+    "lineName": "3号线",
+    "stationList": [
+      {
+        "stationId": 59,
+        "stationName": "江杨北路"
+      },
+      {
+        "stationId": 60,
+        "stationName": "铁力路"
+      },
+      {
+        "stationId": 61,
+        "stationName": "友谊路"
+      },
+      {
+        "stationId": 62,
+        "stationName": "宝杨路"
+      },
+      {
+        "stationId": 63,
+        "stationName": "水产路"
+      },
+      {
+        "stationId": 64,
+        "stationName": "淞滨路"
+      },
+      {
+        "stationId": 65,
+        "stationName": "张华浜"
+      },
+      {
+        "stationId": 66,
+        "stationName": "淞发路"
+      },
+      {
+        "stationId": 67,
+        "stationName": "长江南路"
+      },
+      {
+        "stationId": 68,
+        "stationName": "殷高西路"
+      },
+      {
+        "stationId": 69,
+        "stationName": "江湾镇"
+      },
+      {
+        "stationId": 70,
+        "stationName": "大柏树"
+      },
+      {
+        "stationId": 71,
+        "stationName": "赤峰路"
+      },
+      {
+        "stationId": 72,
+        "stationName": "虹口足球场"
+      },
+      {
+        "stationId": 73,
+        "stationName": "东宝兴路"
+      },
+      {
+        "stationId": 74,
+        "stationName": "宝山路"
+      },
+      {
+        "stationId": 75,
+        "stationName": "上海火车站"
+      },
+      {
+        "stationId": 76,
+        "stationName": "中潭路"
+      },
+      {
+        "stationId": 77,
+        "stationName": "镇坪路"
+      },
+      {
+        "stationId": 78,
+        "stationName": "曹杨路"
+      },
+      {
+        "stationId": 79,
+        "stationName": "金沙江路"
+      },
+      {
+        "stationId": 80,
+        "stationName": "中山公园"
+      },
+      {
+        "stationId": 81,
+        "stationName": "延安西路"
+      },
+      {
+        "stationId": 82,
+        "stationName": "虹桥路"
+      },
+      {
+        "stationId": 83,
+        "stationName": "宜山路"
+      },
+      {
+        "stationId": 84,
+        "stationName": "漕溪路"
+      },
+      {
+        "stationId": 85,
+        "stationName": "龙漕路"
+      },
+      {
+        "stationId": 86,
+        "stationName": "石龙路"
+      },
+      {
+        "stationId": 87,
+        "stationName": "上海南站"
+      }
+    ]
+  },
+  {
+    "lineId": 4,
+    "lineName": "4号线",
+    "stationList": [
+      {
+        "stationId": 88,
+        "stationName": "宜山路"
+      },
+      {
+        "stationId": 89,
+        "stationName": "上海体育馆"
+      },
+      {
+        "stationId": 90,
+        "stationName": "上海体育场"
+      },
+      {
+        "stationId": 91,
+        "stationName": "东安路"
+      },
+      {
+        "stationId": 92,
+        "stationName": "大木桥路"
+      },
+      {
+        "stationId": 93,
+        "stationName": "鲁班路"
+      },
+      {
+        "stationId": 94,
+        "stationName": "西藏南路"
+      },
+      {
+        "stationId": 95,
+        "stationName": "南浦大桥"
+      },
+      {
+        "stationId": 96,
+        "stationName": "塘桥"
+      },
+      {
+        "stationId": 97,
+        "stationName": "蓝村路"
+      },
+      {
+        "stationId": 98,
+        "stationName": "浦电路"
+      },
+      {
+        "stationId": 99,
+        "stationName": "世纪大道"
+      },
+      {
+        "stationId": 100,
+        "stationName": "浦东大道"
+      },
+      {
+        "stationId": 101,
+        "stationName": "杨树浦路"
+      },
+      {
+        "stationId": 102,
+        "stationName": "大连路"
+      },
+      {
+        "stationId": 103,
+        "stationName": "临平路"
+      },
+      {
+        "stationId": 104,
+        "stationName": "海伦路"
+      },
+      {
+        "stationId": 105,
+        "stationName": "宝山路"
+      },
+      {
+        "stationId": 106,
+        "stationName": "上海火车站"
+      },
+      {
+        "stationId": 107,
+        "stationName": "中潭路"
+      },
+      {
+        "stationId": 108,
+        "stationName": "镇坪路"
+      },
+      {
+        "stationId": 109,
+        "stationName": "曹杨路"
+      },
+      {
+        "stationId": 110,
+        "stationName": "金沙江路"
+      },
+      {
+        "stationId": 111,
+        "stationName": "中山公园"
+      },
+      {
+        "stationId": 112,
+        "stationName": "延安西路"
+      },
+      {
+        "stationId": 113,
+        "stationName": "虹桥路"
+      }
+    ]
+  },
+  {
+    "lineId": 5,
+    "lineName": "5号线",
+    "stationList": [
+      {
+        "stationId": 115,
+        "stationName": "闵行开发区"
+      },
+      {
+        "stationId": 116,
+        "stationName": "文井路"
+      },
+      {
+        "stationId": 117,
+        "stationName": "华宁路"
+      },
+      {
+        "stationId": 118,
+        "stationName": "金平路"
+      },
+      {
+        "stationId": 119,
+        "stationName": "东川路"
+      },
+      {
+        "stationId": 120,
+        "stationName": "剑川路"
+      },
+      {
+        "stationId": 121,
+        "stationName": "北桥"
+      },
+      {
+        "stationId": 122,
+        "stationName": "颛桥"
+      },
+      {
+        "stationId": 123,
+        "stationName": "银都路"
+      },
+      {
+        "stationId": 124,
+        "stationName": "春申路"
+      },
+      {
+        "stationId": 125,
+        "stationName": "莘庄"
+      }
+    ]
+  },
+  {
+    "lineId": 6,
+    "lineName": "6号线",
+    "stationList": [
+      {
+        "stationId": 126,
+        "stationName": "东方体育中心"
+      },
+      {
+        "stationId": 127,
+        "stationName": "灵岩南路"
+      },
+      {
+        "stationId": 128,
+        "stationName": "上南路"
+      },
+      {
+        "stationId": 129,
+        "stationName": "华夏西路"
+      },
+      {
+        "stationId": 130,
+        "stationName": "高青路"
+      },
+      {
+        "stationId": 131,
+        "stationName": "东明路"
+      },
+      {
+        "stationId": 132,
+        "stationName": "高科西路"
+      },
+      {
+        "stationId": 133,
+        "stationName": "临沂新村"
+      },
+      {
+        "stationId": 134,
+        "stationName": "上海儿童医学中心"
+      },
+      {
+        "stationId": 135,
+        "stationName": "蓝村路"
+      },
+      {
+        "stationId": 136,
+        "stationName": "浦电路"
+      },
+      {
+        "stationId": 137,
+        "stationName": "世纪大道"
+      },
+      {
+        "stationId": 138,
+        "stationName": "源深体育中心"
+      },
+      {
+        "stationId": 139,
+        "stationName": "民生路"
+      },
+      {
+        "stationId": 140,
+        "stationName": "北洋泾路"
+      },
+      {
+        "stationId": 141,
+        "stationName": "德平路"
+      },
+      {
+        "stationId": 142,
+        "stationName": "云山路"
+      },
+      {
+        "stationId": 143,
+        "stationName": "金桥路"
+      },
+      {
+        "stationId": 144,
+        "stationName": "博兴路"
+      },
+      {
+        "stationId": 145,
+        "stationName": "五莲路"
+      },
+      {
+        "stationId": 146,
+        "stationName": "巨峰路"
+      },
+      {
+        "stationId": 147,
+        "stationName": "东靖路"
+      },
+      {
+        "stationId": 148,
+        "stationName": "五洲大道"
+      },
+      {
+        "stationId": 149,
+        "stationName": "洲海路"
+      },
+      {
+        "stationId": 150,
+        "stationName": "外高桥保税区南"
+      },
+      {
+        "stationId": 151,
+        "stationName": "航津路"
+      },
+      {
+        "stationId": 152,
+        "stationName": "外高桥保税区北"
+      },
+      {
+        "stationId": 153,
+        "stationName": "港城路"
+      }
+    ]
+  },
+  {
+    "lineId": 7,
+    "lineName": "7号线",
+    "stationList": [
+      {
+        "stationId": 154,
+        "stationName": "美兰湖"
+      },
+      {
+        "stationId": 155,
+        "stationName": "罗南新村"
+      },
+      {
+        "stationId": 156,
+        "stationName": "潘广路"
+      },
+      {
+        "stationId": 157,
+        "stationName": "刘行"
+      },
+      {
+        "stationId": 158,
+        "stationName": "顾村公园"
+      },
+      {
+        "stationId": 159,
+        "stationName": "上海大学"
+      },
+      {
+        "stationId": 160,
+        "stationName": "南陈路"
+      },
+      {
+        "stationId": 161,
+        "stationName": "上大路"
+      },
+      {
+        "stationId": 162,
+        "stationName": "场中路"
+      },
+      {
+        "stationId": 163,
+        "stationName": "大场镇"
+      },
+      {
+        "stationId": 164,
+        "stationName": "行知路"
+      },
+      {
+        "stationId": 165,
+        "stationName": "大华三路"
+      },
+      {
+        "stationId": 166,
+        "stationName": "新村路"
+      },
+      {
+        "stationId": 167,
+        "stationName": "岚皋路"
+      },
+      {
+        "stationId": 168,
+        "stationName": "镇坪路"
+      },
+      {
+        "stationId": 169,
+        "stationName": "长寿路"
+      },
+      {
+        "stationId": 170,
+        "stationName": "昌平路"
+      },
+      {
+        "stationId": 171,
+        "stationName": "静安寺"
+      },
+      {
+        "stationId": 172,
+        "stationName": "常熟路"
+      },
+      {
+        "stationId": 173,
+        "stationName": "肇嘉浜路"
+      },
+      {
+        "stationId": 174,
+        "stationName": "东安路"
+      },
+      {
+        "stationId": 175,
+        "stationName": "龙华中路"
+      },
+      {
+        "stationId": 176,
+        "stationName": "后滩"
+      },
+      {
+        "stationId": 177,
+        "stationName": "长清路"
+      },
+      {
+        "stationId": 178,
+        "stationName": "耀华路"
+      },
+      {
+        "stationId": 179,
+        "stationName": "云台路"
+      },
+      {
+        "stationId": 180,
+        "stationName": "高科西路"
+      },
+      {
+        "stationId": 181,
+        "stationName": "杨高南路"
+      },
+      {
+        "stationId": 182,
+        "stationName": "锦绣路"
+      },
+      {
+        "stationId": 183,
+        "stationName": "芳华路"
+      },
+      {
+        "stationId": 184,
+        "stationName": "龙阳路"
+      },
+      {
+        "stationId": 185,
+        "stationName": "花木路"
+      }
+    ]
+  },
+  {
+    "lineId": 8,
+    "lineName": "8号线",
+    "stationList": [
+      {
+        "stationId": 186,
+        "stationName": "沈社公路"
+      },
+      {
+        "stationId": 187,
+        "stationName": "联航路"
+      },
+      {
+        "stationId": 188,
+        "stationName": "江月路"
+      },
+      {
+        "stationId": 189,
+        "stationName": "浦江镇"
+      },
+      {
+        "stationId": 190,
+        "stationName": "芦恒路"
+      },
+      {
+        "stationId": 191,
+        "stationName": "凌兆新村"
+      },
+      {
+        "stationId": 192,
+        "stationName": "东方体育中心"
+      },
+      {
+        "stationId": 193,
+        "stationName": "杨思"
+      },
+      {
+        "stationId": 194,
+        "stationName": "成山路"
+      },
+      {
+        "stationId": 195,
+        "stationName": "耀华路"
+      },
+      {
+        "stationId": 196,
+        "stationName": "中华艺术宫"
+      },
+      {
+        "stationId": 197,
+        "stationName": "西藏南路"
+      },
+      {
+        "stationId": 198,
+        "stationName": "陆家浜路"
+      },
+      {
+        "stationId": 199,
+        "stationName": "老西门"
+      },
+      {
+        "stationId": 200,
+        "stationName": "大世界"
+      },
+      {
+        "stationId": 201,
+        "stationName": "人民广场"
+      },
+      {
+        "stationId": 202,
+        "stationName": "曲阜路"
+      },
+      {
+        "stationId": 203,
+        "stationName": "中兴路"
+      },
+      {
+        "stationId": 204,
+        "stationName": "西藏北路"
+      },
+      {
+        "stationId": 205,
+        "stationName": "虹口足球场"
+      },
+      {
+        "stationId": 206,
+        "stationName": "曲阳路"
+      },
+      {
+        "stationId": 207,
+        "stationName": "四平路"
+      },
+      {
+        "stationId": 208,
+        "stationName": "鞍山新村"
+      },
+      {
+        "stationId": 209,
+        "stationName": "江浦路"
+      },
+      {
+        "stationId": 211,
+        "stationName": "黄兴路"
+      },
+      {
+        "stationId": 212,
+        "stationName": "延吉中路"
+      },
+      {
+        "stationId": 213,
+        "stationName": "黄兴公园"
+      },
+      {
+        "stationId": 5801,
+        "stationName": "翔殷路"
+      },
+      {
+        "stationId": 5802,
+        "stationName": "嫩江路"
+      },
+      {
+        "stationId": 5803,
+        "stationName": "市光路"
+      }
+    ]
+  },
+  {
+    "lineId": 9,
+    "lineName": "9号线",
+    "stationList": [
+      {
+        "stationId": 215,
+        "stationName": "松江南站"
+      },
+      {
+        "stationId": 216,
+        "stationName": "醉白池"
+      },
+      {
+        "stationId": 217,
+        "stationName": "松江体育中心"
+      },
+      {
+        "stationId": 218,
+        "stationName": "松江新城"
+      },
+      {
+        "stationId": 219,
+        "stationName": "松江大学城"
+      },
+      {
+        "stationId": 220,
+        "stationName": "洞泾"
+      },
+      {
+        "stationId": 221,
+        "stationName": "佘山"
+      },
+      {
+        "stationId": 222,
+        "stationName": "泗泾"
+      },
+      {
+        "stationId": 223,
+        "stationName": "九亭"
+      },
+      {
+        "stationId": 224,
+        "stationName": "中春路"
+      },
+      {
+        "stationId": 225,
+        "stationName": "七宝"
+      },
+      {
+        "stationId": 226,
+        "stationName": "星中路"
+      },
+      {
+        "stationId": 227,
+        "stationName": "合川路"
+      },
+      {
+        "stationId": 228,
+        "stationName": "漕河泾开发区"
+      },
+      {
+        "stationId": 229,
+        "stationName": "桂林路"
+      },
+      {
+        "stationId": 230,
+        "stationName": "宜山路"
+      },
+      {
+        "stationId": 231,
+        "stationName": "徐家汇"
+      },
+      {
+        "stationId": 232,
+        "stationName": "肇嘉浜路"
+      },
+      {
+        "stationId": 233,
+        "stationName": "嘉善路"
+      },
+      {
+        "stationId": 234,
+        "stationName": "打浦桥"
+      },
+      {
+        "stationId": 235,
+        "stationName": "马当路"
+      },
+      {
+        "stationId": 236,
+        "stationName": "陆家浜路"
+      },
+      {
+        "stationId": 237,
+        "stationName": "小南门"
+      },
+      {
+        "stationId": 5840,
+        "stationName": "商城路"
+      },
+      {
+        "stationId": 5804,
+        "stationName": "世纪大道"
+      },
+      {
+        "stationId": 5805,
+        "stationName": "杨高中路"
+      },
+      {
+        "stationId": 5841,
+        "stationName": "芳甸路"
+      },
+      {
+        "stationId": 5842,
+        "stationName": "蓝天路"
+      },
+      {
+        "stationId": 5843,
+        "stationName": "台儿庄路"
+      },
+      {
+        "stationId": 5844,
+        "stationName": "金桥"
+      },
+      {
+        "stationId": 5806,
+        "stationName": "金吉路"
+      },
+      {
+        "stationId": 5807,
+        "stationName": "金吉路"
+      },
+      {
+        "stationId": 5808,
+        "stationName": "金海路"
+      },
+      {
+        "stationId": 5809,
+        "stationName": "顾唐路"
+      },
+      {
+        "stationId": 5845,
+        "stationName": "民雷路"
+      },
+      {
+        "stationId": 5846,
+        "stationName": "曹路"
+      }
+    ]
+  },
+  {
+    "lineId": 10,
+    "lineName": "10号线",
+    "stationList": [
+      {
+        "stationId": 238,
+        "stationName": "新江湾城"
+      },
+      {
+        "stationId": 239,
+        "stationName": "殷高东路"
+      },
+      {
+        "stationId": 240,
+        "stationName": "三门路"
+      },
+      {
+        "stationId": 241,
+        "stationName": "江湾体育场"
+      },
+      {
+        "stationId": 242,
+        "stationName": "五角场"
+      },
+      {
+        "stationId": 243,
+        "stationName": "国权路"
+      },
+      {
+        "stationId": 244,
+        "stationName": "同济大学"
+      },
+      {
+        "stationId": 245,
+        "stationName": "四平路"
+      },
+      {
+        "stationId": 246,
+        "stationName": "邮电新村"
+      },
+      {
+        "stationId": 247,
+        "stationName": "海伦路"
+      },
+      {
+        "stationId": 248,
+        "stationName": "四川北路"
+      },
+      {
+        "stationId": 249,
+        "stationName": "天潼路"
+      },
+      {
+        "stationId": 250,
+        "stationName": "南京东路"
+      },
+      {
+        "stationId": 251,
+        "stationName": "豫园"
+      },
+      {
+        "stationId": 252,
+        "stationName": "老西门"
+      },
+      {
+        "stationId": 253,
+        "stationName": "新天地"
+      },
+      {
+        "stationId": 254,
+        "stationName": "陕西南路"
+      },
+      {
+        "stationId": 255,
+        "stationName": "上海图书馆"
+      },
+      {
+        "stationId": 256,
+        "stationName": "交通大学"
+      },
+      {
+        "stationId": 257,
+        "stationName": "虹桥路"
+      },
+      {
+        "stationId": 258,
+        "stationName": "宋园路"
+      },
+      {
+        "stationId": 259,
+        "stationName": "伊犁路"
+      },
+      {
+        "stationId": 260,
+        "stationName": "水城路"
+      },
+      {
+        "stationId": 261,
+        "stationName": "龙溪路"
+      },
+      {
+        "stationId": 5847,
+        "stationName": "上海动物园"
+      },
+      {
+        "stationId": 5810,
+        "stationName": "虹桥1号航站楼"
+      },
+      {
+        "stationId": 5811,
+        "stationName": "虹桥2号航站楼"
+      },
+      {
+        "stationId": 5812,
+        "stationName": "虹桥火车站"
+      },
+      {
+        "stationId": 5848,
+        "stationName": "龙柏新村"
+      },
+      {
+        "stationId": 5813,
+        "stationName": "紫藤路"
+      },
+      {
+        "stationId": 5849,
+        "stationName": "航中路"
+      }
+    ]
+  },
+  {
+    "lineId": 11,
+    "lineName": "11号线",
+    "stationList": [
+      {
+        "stationId": 269,
+        "stationName": "花桥"
+      },
+      {
+        "stationId": 270,
+        "stationName": "光明路"
+      },
+      {
+        "stationId": 271,
+        "stationName": "兆丰路"
+      },
+      {
+        "stationId": 272,
+        "stationName": "安亭"
+      },
+      {
+        "stationId": 273,
+        "stationName": "上海汽车城"
+      },
+      {
+        "stationId": 274,
+        "stationName": "昌吉东路"
+      },
+      {
+        "stationId": 275,
+        "stationName": "上海赛车场"
+      },
+      {
+        "stationId": 276,
+        "stationName": "嘉定北"
+      },
+      {
+        "stationId": 277,
+        "stationName": "嘉定西"
+      },
+      {
+        "stationId": 278,
+        "stationName": "白银路"
+      },
+      {
+        "stationId": 279,
+        "stationName": "嘉定新城"
+      },
+      {
+        "stationId": 280,
+        "stationName": "马陆"
+      },
+      {
+        "stationId": 281,
+        "stationName": "南翔"
+      },
+      {
+        "stationId": 282,
+        "stationName": "桃浦新村"
+      },
+      {
+        "stationId": 283,
+        "stationName": "武威路"
+      },
+      {
+        "stationId": 284,
+        "stationName": "祁连山路"
+      },
+      {
+        "stationId": 285,
+        "stationName": "李子园"
+      },
+      {
+        "stationId": 286,
+        "stationName": "上海西站"
+      },
+      {
+        "stationId": 287,
+        "stationName": "真如"
+      },
+      {
+        "stationId": 288,
+        "stationName": "枫桥路"
+      },
+      {
+        "stationId": 5814,
+        "stationName": "曹杨路"
+      },
+      {
+        "stationId": 5815,
+        "stationName": "隆德路"
+      },
+      {
+        "stationId": 5850,
+        "stationName": "江苏路"
+      },
+      {
+        "stationId": 5851,
+        "stationName": "交通大学"
+      },
+      {
+        "stationId": 5816,
+        "stationName": "徐家汇"
+      },
+      {
+        "stationId": 5852,
+        "stationName": "上海游泳馆"
+      },
+      {
+        "stationId": 5817,
+        "stationName": "龙华"
+      },
+      {
+        "stationId": 5853,
+        "stationName": "云锦路"
+      },
+      {
+        "stationId": 5818,
+        "stationName": "龙耀路"
+      },
+      {
+        "stationId": 5819,
+        "stationName": "东方体育中心"
+      },
+      {
+        "stationId": 5820,
+        "stationName": "三林"
+      },
+      {
+        "stationId": 5821,
+        "stationName": "三林东"
+      },
+      {
+        "stationId": 5822,
+        "stationName": "浦三路"
+      },
+      {
+        "stationId": 5854,
+        "stationName": "御桥"
+      },
+      {
+        "stationId": 5855,
+        "stationName": "罗山路"
+      },
+      {
+        "stationId": 5823,
+        "stationName": "秀沿路"
+      },
+      {
+        "stationId": 5856,
+        "stationName": "康新公路"
+      },
+      {
+        "stationId": 5824,
+        "stationName": "迪士尼乐园"
+      }
+    ]
+  },
+  {
+    "lineId": 2780,
+    "lineName": "12号线",
+    "stationList": [
+      {
+        "stationId": 5880,
+        "stationName": "七莘路"
+      },
+      {
+        "stationId": 5881,
+        "stationName": "虹莘路"
+      },
+      {
+        "stationId": 5882,
+        "stationName": "顾戴路"
+      },
+      {
+        "stationId": 5883,
+        "stationName": "东兰路"
+      },
+      {
+        "stationId": 5884,
+        "stationName": "虹梅路"
+      },
+      {
+        "stationId": 5920,
+        "stationName": "虹漕路"
+      },
+      {
+        "stationId": 5921,
+        "stationName": "桂林公园"
+      },
+      {
+        "stationId": 5922,
+        "stationName": "漕宝路"
+      },
+      {
+        "stationId": 5885,
+        "stationName": "龙漕路"
+      },
+      {
+        "stationId": 5923,
+        "stationName": "龙华"
+      },
+      {
+        "stationId": 5924,
+        "stationName": "龙华中路"
+      },
+      {
+        "stationId": 5925,
+        "stationName": "大木桥路"
+      },
+      {
+        "stationId": 5886,
+        "stationName": "嘉善路"
+      },
+      {
+        "stationId": 5887,
+        "stationName": "陕西南路"
+      },
+      {
+        "stationId": 5926,
+        "stationName": "南京西路"
+      },
+      {
+        "stationId": 5888,
+        "stationName": "汉中路"
+      },
+      {
+        "stationId": 5927,
+        "stationName": "曲阜路"
+      },
+      {
+        "stationId": 5928,
+        "stationName": "天潼路"
+      },
+      {
+        "stationId": 5889,
+        "stationName": "国际客运中心"
+      },
+      {
+        "stationId": 5929,
+        "stationName": "提篮桥"
+      },
+      {
+        "stationId": 5930,
+        "stationName": "大连路"
+      },
+      {
+        "stationId": 5931,
+        "stationName": "江浦公园"
+      },
+      {
+        "stationId": 5932,
+        "stationName": "宁国路"
+      },
+      {
+        "stationId": 5933,
+        "stationName": "隆昌路"
+      },
+      {
+        "stationId": 5934,
+        "stationName": "爱国路"
+      },
+      {
+        "stationId": 5935,
+        "stationName": "复兴岛"
+      },
+      {
+        "stationId": 5936,
+        "stationName": "东陆路"
+      },
+      {
+        "stationId": 5937,
+        "stationName": "巨峰路"
+      },
+      {
+        "stationId": 5890,
+        "stationName": "杨高北路"
+      },
+      {
+        "stationId": 5891,
+        "stationName": "南京路"
+      },
+      {
+        "stationId": 5892,
+        "stationName": "申江路"
+      },
+      {
+        "stationId": 5938,
+        "stationName": "金海路"
+      }
+    ]
+  },
+  {
+    "lineId": 2820,
+    "lineName": "13号线",
+    "stationList": [
+      {
+        "stationId": 5939,
+        "stationName": "金运路"
+      },
+      {
+        "stationId": 5893,
+        "stationName": "金沙江西路"
+      },
+      {
+        "stationId": 5940,
+        "stationName": "丰庄"
+      },
+      {
+        "stationId": 5941,
+        "stationName": "祁连山南路"
+      },
+      {
+        "stationId": 5894,
+        "stationName": "真北路"
+      },
+      {
+        "stationId": 5895,
+        "stationName": "大渡河路"
+      },
+      {
+        "stationId": 5896,
+        "stationName": "金沙江路"
+      },
+      {
+        "stationId": 5897,
+        "stationName": "隆德路"
+      },
+      {
+        "stationId": 5898,
+        "stationName": "武宁路"
+      },
+      {
+        "stationId": 5899,
+        "stationName": "长寿路"
+      },
+      {
+        "stationId": 5900,
+        "stationName": "江宁路"
+      },
+      {
+        "stationId": 5901,
+        "stationName": "汉中路"
+      },
+      {
+        "stationId": 5902,
+        "stationName": "自然博物馆"
+      },
+      {
+        "stationId": 5903,
+        "stationName": "南京西路"
+      },
+      {
+        "stationId": 5942,
+        "stationName": "淮海中路"
+      },
+      {
+        "stationId": 5944,
+        "stationName": "新天地"
+      },
+      {
+        "stationId": 5945,
+        "stationName": "马当路"
+      },
+      {
+        "stationId": 5946,
+        "stationName": "世博会博物馆"
+      },
+      {
+        "stationId": 5904,
+        "stationName": "世博大道"
+      }
+    ]
+  },
+  {
+    "lineId": 2822,
+    "lineName": "16号线",
+    "stationList": [
+      {
+        "stationId": 5947,
+        "stationName": "龙阳路"
+      },
+      {
+        "stationId": 5906,
+        "stationName": "华夏中路"
+      },
+      {
+        "stationId": 5948,
+        "stationName": "罗山路"
+      },
+      {
+        "stationId": 5949,
+        "stationName": "周浦东"
+      },
+      {
+        "stationId": 5950,
+        "stationName": "鹤沙航城"
+      },
+      {
+        "stationId": 5907,
+        "stationName": "航头东"
+      },
+      {
+        "stationId": 5951,
+        "stationName": "新场"
+      },
+      {
+        "stationId": 5908,
+        "stationName": "野生动物园"
+      },
+      {
+        "stationId": 5952,
+        "stationName": "惠南"
+      },
+      {
+        "stationId": 5909,
+        "stationName": "惠南东"
+      },
+      {
+        "stationId": 5910,
+        "stationName": "书院"
+      },
+      {
+        "stationId": 5953,
+        "stationName": "临港大道"
+      },
+      {
+        "stationId": 5954,
+        "stationName": "滴水湖"
+      }
+    ]
+  },
+  {
+    "lineId": 2823,
+    "lineName": "17号线",
+    "stationList": [
+      {
+        "stationId": 5911,
+        "stationName": "虹桥火车站"
+      },
+      {
+        "stationId": 5955,
+        "stationName": "诸光路"
+      },
+      {
+        "stationId": 5912,
+        "stationName": "蟠龙路"
+      },
+      {
+        "stationId": 5913,
+        "stationName": "徐盈路"
+      },
+      {
+        "stationId": 5956,
+        "stationName": "徐泾北城"
+      },
+      {
+        "stationId": 5957,
+        "stationName": "嘉松中路"
+      },
+      {
+        "stationId": 5958,
+        "stationName": "赵巷"
+      },
+      {
+        "stationId": 5959,
+        "stationName": "汇金路"
+      },
+      {
+        "stationId": 5960,
+        "stationName": "青浦新城"
+      },
+      {
+        "stationId": 5961,
+        "stationName": "漕盈路"
+      },
+      {
+        "stationId": 5962,
+        "stationName": "淀山湖大道"
+      },
+      {
+        "stationId": 5963,
+        "stationName": "朱家角"
+      },
+      {
+        "stationId": 5914,
+        "stationName": "东方绿洲"
+      }
+    ]
+  },
+  {
+    "lineId": 2824,
+    "lineName": "金山铁路",
+    "stationList": [
+      {
+        "stationId": 5964,
+        "stationName": "上海南"
+      },
+      {
+        "stationId": 5965,
+        "stationName": "春申"
+      },
+      {
+        "stationId": 5915,
+        "stationName": "新桥"
+      },
+      {
+        "stationId": 5966,
+        "stationName": "车墩"
+      },
+      {
+        "stationId": 5967,
+        "stationName": "叶榭"
+      },
+      {
+        "stationId": 5968,
+        "stationName": "亭林"
+      },
+      {
+        "stationId": 5916,
+        "stationName": "金山园区"
+      },
+      {
+        "stationId": 5917,
+        "stationName": "金山卫"
+      }
+    ]
+  }
+]

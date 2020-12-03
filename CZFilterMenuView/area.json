@@ -1,0 +1,116 @@
+[
+  {
+    "areaId": "3.1.1.",
+    "searchAreaId": "1",
+    "area": "徐汇",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.2.",
+    "searchAreaId": "2",
+    "area": "静安",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.3.",
+    "searchAreaId": "3",
+    "area": "卢湾",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.4.",
+    "searchAreaId": "4",
+    "area": "长宁",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.5.",
+    "searchAreaId": "5",
+    "area": "黄浦",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.6.",
+    "searchAreaId": "6",
+    "area": "普陀",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.7.",
+    "searchAreaId": "7",
+    "area": "闸北",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.8.",
+    "searchAreaId": "8",
+    "area": "虹口",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.9.",
+    "searchAreaId": "9",
+    "area": "杨浦",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.10.",
+    "searchAreaId": "10",
+    "area": "闵行",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.11.",
+    "searchAreaId": "11",
+    "area": "浦东",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.12.",
+    "searchAreaId": "12",
+    "area": "嘉定",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.13.",
+    "searchAreaId": "13",
+    "area": "宝山",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.14.",
+    "searchAreaId": "14",
+    "area": "松江",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.16.",
+    "searchAreaId": "16",
+    "area": "青浦",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.17.",
+    "searchAreaId": "17",
+    "area": "金山",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.18.",
+    "searchAreaId": "18",
+    "area": "奉贤",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.19.",
+    "searchAreaId": "19",
+    "area": "崇明",
+    "childCount": 0
+  },
+  {
+    "areaId": "3.1.20.",
+    "searchAreaId": "20",
+    "area": "上海周边",
+    "childCount": 0
+  }
+]
