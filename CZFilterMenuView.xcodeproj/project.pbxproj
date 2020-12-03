@@ -126,7 +126,7 @@
 		2127B0D62547FF5800CE3641 /* CZFilterMenuView */ = {
 			isa = PBXGroup;
 			children = (
-				2127B0F02547FF6300CE3641 /* CZFilterMenuView */,
+				2127B0F02547FF6300CE3641 /* CZFilterMenu */,
 				2127B1112549005D00CE3641 /* CZFilterMenuModel.h */,
 				2127B1122549005D00CE3641 /* CZFilterMenuModel.m */,
 				2127B0D72547FF5800CE3641 /* AppDelegate.h */,
@@ -152,7 +152,7 @@
 			path = CZFilterMenuView;
 			sourceTree = "<group>";
 		};
-		2127B0F02547FF6300CE3641 /* CZFilterMenuView */ = {
+		2127B0F02547FF6300CE3641 /* CZFilterMenu */ = {
 			isa = PBXGroup;
 			children = (
 				2127B0F12547FF8000CE3641 /* CZFilterMenuView.h */,
@@ -165,7 +165,7 @@
 				2127B11925493EDE00CE3641 /* Helper */,
 				21B95BE925787698003A1FB4 /* CZFilterImages.xcassets */,
 			);
-			path = CZFilterMenuView;
+			path = CZFilterMenu;
 			sourceTree = "<group>";
 		};
 		2127B11725493EB000CE3641 /* View */ = {
