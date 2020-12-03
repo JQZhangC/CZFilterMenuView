@@ -1235,7 +1235,7 @@ static NSString *const kCollectionViewFooterId = @"CZFilterMenuCollectionFooterI
         _leftTableView.tableFooterView = [[UIView alloc] init];
         _leftTableView.separatorStyle = UITableViewCellSeparatorStyleNone;
         _leftTableView.backgroundColor = [UIColor colorWithRed:241.0/255.0 green:242.0/255.0 blue:246.0/255.0 alpha:1.0];
-        [_leftTableView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuTableViewCell class]) bundle:nil]
+        [_leftTableView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuTableViewCell class]) bundle:[CZFilterMenuHelper libBundle]]
              forCellReuseIdentifier:kTableViewCellId];
     }
     return _leftTableView;
@@ -1251,7 +1251,7 @@ static NSString *const kCollectionViewFooterId = @"CZFilterMenuCollectionFooterI
         _centerTableView.tableFooterView = [[UIView alloc] init];
         _centerTableView.separatorStyle = UITableViewCellSeparatorStyleNone;
         _centerTableView.backgroundColor = [UIColor colorWithRed:241.0/255.0 green:242.0/255.0 blue:246.0/255.0 alpha:1.0];
-        [_centerTableView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuTableViewCell class]) bundle:nil]
+        [_centerTableView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuTableViewCell class]) bundle:[CZFilterMenuHelper libBundle]]
                forCellReuseIdentifier:kTableViewCellId];
     }
     return _centerTableView;
@@ -1267,7 +1267,7 @@ static NSString *const kCollectionViewFooterId = @"CZFilterMenuCollectionFooterI
         _rightTableView.tableFooterView = [[UIView alloc] init];
         _rightTableView.separatorStyle = UITableViewCellSeparatorStyleNone;
         _rightTableView.backgroundColor = [UIColor colorWithRed:241.0/255.0 green:242.0/255.0 blue:246.0/255.0 alpha:1.0];
-        [_rightTableView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuTableViewCell class]) bundle:nil]
+        [_rightTableView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuTableViewCell class]) bundle:[CZFilterMenuHelper libBundle]]
               forCellReuseIdentifier:kTableViewCellId];
     }
     return _rightTableView;
@@ -1287,12 +1287,12 @@ static NSString *const kCollectionViewFooterId = @"CZFilterMenuCollectionFooterI
         _collectionView.dataSource = self;
         _collectionView.backgroundColor = UIColor.whiteColor;
         _collectionView.contentInset = kCollectionContentInsets;
-        [_collectionView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuCollectionViewCell class]) bundle:nil]
+        [_collectionView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuCollectionViewCell class]) bundle:[CZFilterMenuHelper libBundle]]
           forCellWithReuseIdentifier:kCollectionViewCellId];
-        [_collectionView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuCollectionHeaderView class]) bundle:nil]
+        [_collectionView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuCollectionHeaderView class]) bundle:[CZFilterMenuHelper libBundle]]
           forSupplementaryViewOfKind:UICollectionElementKindSectionHeader
                  withReuseIdentifier:kCollectionViewHeaderId];
-        [_collectionView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuCollectionFooterInputView class]) bundle:nil]
+        [_collectionView registerNib:[UINib nibWithNibName:NSStringFromClass([CZFilterMenuCollectionFooterInputView class]) bundle:[CZFilterMenuHelper libBundle]]
           forSupplementaryViewOfKind:UICollectionElementKindSectionFooter
                  withReuseIdentifier:kCollectionViewFooterId];
         

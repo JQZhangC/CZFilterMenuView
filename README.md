@@ -7,14 +7,16 @@
 
 
 USE
-Installation with CocoaPods：pod 'ZQFilterMenuView'
+Installation with CocoaPods：pod 'CZFilterMenu'
+
+```
+ #import <CZFilterMenu.h>
+```
 
 Installation
-ZQFilterMenuView is available through CocoaPods. To install it, simply add the following line to your Podfile:
+CZFilterMenu is available through CocoaPods. To install it, simply add the following line to your Podfile:
 
-pod 'ZQFilterMenuView'
-Author
-zhengzeqin, zhengzeqin@addcn.com
+pod 'CZFilterMenu'
 
 License
-ZQFilterMenuView is available under the MIT license. See the LICENSE file for more info.
+CZFilterMenu is available under the MIT license. See the LICENSE file for more info.

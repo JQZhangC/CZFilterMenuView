@@ -47,22 +47,17 @@ spec.requires_arc = true
   # Helper为文件夹名,ss可以看错是别名(指代使用),source_files指明次一级文件的路径
   # 必须要使用end结束
   spec.subspec 'Helper' do |ss|
-    ss.source_files = 'CZFilterMenuView/CZFilterMenu/Helper/*'
+    ss.source_files = 'CZFilterMenuView/CZFilterMenu/Helper/*.{h,m}'
   end
     
   spec.subspec 'View' do |ss|
-    ss.source_files = 'CZFilterMenuView/CZFilterMenu/View/*'
+    ss.source_files = 'CZFilterMenuView/CZFilterMenu/View/*.{h,m}'
   end
 
 # xib文件和图片文件
-s.resource_bundles = {
-  'CZBottomConfirmView' => ['*.{xib}'],
-  'CZFilterMenuCollectionFooterInputView' => ['*.{xib}'],
-  'CZFilterMenuCollectionHeaderView' => ['*.{xib}'],
-  'CZFilterMenuCollectionViewCell' => ['*.{xib}'],
-  'CZFilterMenuTableViewCell' => ['*.{xib}'],
-  'CZFilterMenuView' => ['CZFilterMenuView/Assets/*.png']
-}
+spec.resource_bundles = {
+  'CZFilterMenuResource' => ['CZFilterMenuView/CZFilterMenu/View/*.xib','CZFilterMenuView/Assets/*.png']
+  }
 
 # 忽略文件,目标路径(相对路径)下的文件不进行下载
 #spec.exclude_files = ""

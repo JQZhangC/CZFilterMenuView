@@ -66,5 +66,12 @@
 }
 
 
-
++ (NSBundle *)libBundle {
+    NSString *bundlePath = [[NSBundle bundleForClass:self.class].resourcePath stringByAppendingPathComponent:@"CZFilterMenuResource.bunbdle"];
+    NSBundle *bundle = [NSBundle bundleWithPath:bundlePath];
+    if (bundle == nil) {
+        bundle = [NSBundle bundleForClass:self.class];
+    }
+    return bundle;
+}
 @end

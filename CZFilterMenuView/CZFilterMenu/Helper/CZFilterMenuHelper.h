@@ -22,6 +22,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (void)layoutButtonWithButton:(UIButton *)button
                imageTitleSpace:(CGFloat)space;
+
++ (NSBundle *)libBundle;
 @end
 
 NS_ASSUME_NONNULL_END
