@@ -1,11 +1,9 @@
-
-
 Pod::Spec.new do |spec|
 # 库名称
   spec.name         = "CZFilterMenu"
 
 # 对应Github中的tag
-  spec.version      = "0.0.6"
+  spec.version      = "0.0.7"
 
 # 是否开启ARC
 spec.requires_arc = true
@@ -56,7 +54,7 @@ spec.requires_arc = true
 
 # xib文件和图片文件
 spec.resource_bundles = {
-  'CZFilterMenuResource' => ['CZFilterMenuView/CZFilterMenu/View/*.xib','CZFilterMenuView/CZFilterMenu/CZFilterImages.xcassets/*.png']
+  'CZFilterMenuResource' => ['CZFilterMenuView/CZFilterMenu/View/*.xib','CZFilterMenuView/CZFilterMenu/CZFilterImages.xcassets/**/*.png']
   }
 # 忽略文件,目标路径(相对路径)下的文件不进行下载
 #spec.exclude_files = ""
